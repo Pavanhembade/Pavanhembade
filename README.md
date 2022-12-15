@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Pavanhembade
-- 👀 I’m interested in web Artificial Inteligence
+- 👀 I’m interested in software testing
 - 🌱 I’m currently learning Web development...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on ..
 
 <!---
 Pavanhembade/Pavanhembade is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
