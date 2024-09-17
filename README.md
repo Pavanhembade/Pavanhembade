@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Pavanhembade
-- 👀 I’m interested in software testing
 - 🌱 I’m currently learning Web development...
 - 💞️ I’m looking to collaborate on ..
 
